@@ -1,13 +1,23 @@
+### 2. Backend Setup
 
-
-## Frontend
-Install dependencies and run:
-cd frontend
-npm install
-npm run dev
-run on http://localhost:3000
-## Backend
+```bash
 cd backend
 npm install
 npm start
-run on http://localhost:8000
+
+```
+
+* **Status:** Server running at `http://localhost:8000`
+
+### 3. Frontend Setup
+
+```bash
+cd frontend
+npm install
+npm run dev
+
+```
+
+* **Status:** Server running at `http://localhost:3000`
+
+---
